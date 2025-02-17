@@ -18,4 +18,4 @@ Libreria utilizada Random
 
 Estrucutra del Repositorio:
 README.md         Descripcion del juego
-main.py          Código principal del juego
+juego.py          Código principal del juego
