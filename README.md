@@ -25,3 +25,6 @@ README.md         Descripcion del juego
 
 
 juego.py        Código principal del juego
+
+
+Piedra, Papel o tijeras.pptx     Presentacion de Power Point del juego 
