@@ -18,4 +18,4 @@ Libreria utilizada Random
 
 Estrucutra del Repositorio:
 README.md         Descripcion del juego
-juego.py          Código principal del juego
+Piedra, papel o tijeras.py        Código principal del juego
