@@ -17,5 +17,11 @@ Lenguaje de programacion Python version 3.11.9
 Libreria utilizada Random
 
 Estrucutra del Repositorio:
+
+
 README.md         Descripcion del juego
-Piedra, papel o tijeras.py        Código principal del juego
+
+
+
+
+juego.py        Código principal del juego
